@@ -5,10 +5,16 @@
 -->
 <p align="center">I'm a software developer with strong problem solving skills. I enjoy the challenges of new projects and I love working in a team setting as well as independently. While I am not coding, I love to spend time exploring nature and reading books. Aside from programming, my main passion is cooking, meditation, and learning history!</p>
 
-<p align="center">
-  - 🌱 I’m currently learning <img alt="Jacob-Folley" width="20px" src="https://iconape.com/wp-content/png_logo_vector/c.png" /> and <img alt="Jacob-Folley" width="20px" src="https://cdn.iconscout.com/icon/free/png-128/typescript-1174965.png" />
-</p>
-<h3 align="center">Skills</h3>
+<h3 align="center">
+  🌱 Learning
+</h3>
+
+<div align="center">
+  <img alt="Jacob-Folley" width="50px" src="https://iconape.com/wp-content/png_logo_vector/c.png" />
+  <img alt="Jacob-Folley" width="50px" src="https://cdn.iconscout.com/icon/free/png-128/typescript-1174965.png" />
+</div>
+
+<h3 align="center">:deciduous_tree: Skills</h3>
 <div align="center">
   <img align="center" alt="Jacob-Folley" width="50px" src="https://img.icons8.com/fluency/344/python.png" />
   <img align="center" alt="Jacob-Folley" width="50px" src="https://cdn.iconscout.com/icon/free/png-128/django-11-1175036.png" />
@@ -18,6 +24,8 @@
   <img align="center" alt="Jacob-Folley" width="50px" src="https://cdn.iconscout.com/icon/free/png-128/css3-2474815-2056054.png" />
   <img align="center" alt="Jacob-Folley" width="50px" src="https://cdn.iconscout.com/icon/free/png-128/sql-file-2917473-2420443.png" />
 </div>
+<p></p>
+<p></p>
 <p align="center">
   <img align="center" alt="Jacob-Folley" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47z6cew3726trkorl2g6fx533ax2ftttyebt8jwblh&rid=giphy.gif&ct=g" />
 </p>
