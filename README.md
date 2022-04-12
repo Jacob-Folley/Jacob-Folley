@@ -5,12 +5,11 @@
 -->
 I'm a software developer with strong problem solving skills. I enjoy the challenges of new projects and I love working in a team setting as well as independently. While I am not coding, I love to spend time exploring nature and reading books. Aside from programming, my main passion is cooking, meditation, and learning history!
 
-<h1 align="center">
+<h3 align="center">
   Let's connect!
-</h1>
-<p align="center">
-  [<img align="center" alt="Jacob-Folley" width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" />]   (https://www.linkedin.com/in/jacobfolley/)
-</p>
+</h3>
+[<img align="center" alt="Jacob-Folley" width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" />]   (https://www.linkedin.com/in/jacobfolley/)
+
 
 <!--
 Here are some ideas to get you started:
