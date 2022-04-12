@@ -5,6 +5,10 @@
 -->
 I'm a software developer with strong problem solving skills. I enjoy the challenges of new projects and I love working in a team setting as well as independently. While I am not coding, I love to spend time exploring nature and reading books. Aside from programming, my main passion is cooking, meditation, and learning history!
 
+<p align="center">
+  <img align="center" alt="Jacob-Folley" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47z6cew3726trkorl2g6fx533ax2ftttyebt8jwblh&rid=giphy.gif&ct=g" />
+</p>
+
 <h3 align="center">
   Let's connect!
 </h3>
