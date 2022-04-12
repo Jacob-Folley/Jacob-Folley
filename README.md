@@ -8,8 +8,7 @@ I'm a software developer with strong problem solving skills. I enjoy the challen
 <h3 align="center">
   Let's connect!
 </h3>
-[<img align="center" alt="Jacob-Folley" width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" />][https://www.linkedin.com/in/jacobfolley/]
-
+<a href="https://www.linkedin.com/in/jacobfolley"><img align="center" alt="Jacob-Folley" width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" /></a>
 
 <!--
 Here are some ideas to get you started:
